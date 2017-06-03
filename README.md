@@ -1,6 +1,6 @@
 # termuxer
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
 **termuxer** is a simple yet fancy Oh-My-Zsh theme inspired by agnoster and linuxer theme. It features:
 
