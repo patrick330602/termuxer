@@ -11,11 +11,11 @@
 
 ## Installation
 
-**wget should be installed**
+**`curl` and Termux API should be installed**
 
 type the following in the terminal:
 
-`wget -p https://raw.githubusercontent.com/patrick330602/termux/master/termuxer.zsh-theme -O ~/.oh-my-zsh/themes/termuxer.zsh-theme`
+`curl -fsSL https://raw.githubusercontent.com/patrick330602/termuxer/master/termuxer.zsh-theme >> ~/.oh-my-zsh/custom/themes/termuxer.zsh-theme`
 
 ## License
 
